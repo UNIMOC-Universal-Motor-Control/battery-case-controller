@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -79,6 +80,18 @@
           "pos_x": -7,
           "pos_y": 0,
           "size_x": 2304,
+          "size_y": 1407
+        }
+      },
+      {
+        "name": "battery-case-controller.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 2283,
+          "pos_y": 0,
+          "size_x": 1164,
           "size_y": 1407
         }
       }
