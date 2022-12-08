@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 44,
-    "active_layer_preset": "All Layers",
+    "active_layer": 37,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -62,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffffff_ffffffe3",
     "zone_display_mode": 0
   },
   "meta": {
@@ -72,18 +72,6 @@
   "project": {
     "files": [
       {
-        "name": "battery-case-controller.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 2283,
-          "pos_y": 0,
-          "size_x": 1164,
-          "size_y": 1407
-        }
-      },
-      {
         "name": "battery-case-controller.kicad_pcb",
         "open": true,
         "window": {
@@ -92,6 +80,18 @@
           "pos_x": -7,
           "pos_y": 0,
           "size_x": 2304,
+          "size_y": 1407
+        }
+      },
+      {
+        "name": "battery-case-controller.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 2283,
+          "pos_y": 0,
+          "size_x": 1164,
           "size_y": 1407
         }
       }
