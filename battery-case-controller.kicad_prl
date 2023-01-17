@@ -62,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffe3",
+    "visible_layers": "fffffff_fffffff3",
     "zone_display_mode": 0
   },
   "meta": {
@@ -70,19 +70,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "battery-case-controller.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": -7,
-          "pos_y": 0,
-          "size_x": 2304,
-          "size_y": 1407
-        }
-      }
-    ]
+    "files": []
   }
 }
