@@ -3178,6 +3178,24 @@
     (path "/0ceebacc-3a08-47b1-99c3-ff6c5b22889f/0f9860d3-be5c-46f4-a8b4-b949b49068ba"
       (reference "R89") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/d2806e79-2e9c-4c5a-a851-59ea3cddabdb/53e2ae53-c8da-499e-9dd6-5b015187b046"
+      (reference "R90") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/d2806e79-2e9c-4c5a-a851-59ea3cddabdb/0f2f30f6-4003-4d97-a906-e85f6b1522f6"
+      (reference "R91") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6fb9fe82-ffb3-4fbf-99a2-1f4f0d4b359a/53e2ae53-c8da-499e-9dd6-5b015187b046"
+      (reference "R92") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/6fb9fe82-ffb3-4fbf-99a2-1f4f0d4b359a/0f2f30f6-4003-4d97-a906-e85f6b1522f6"
+      (reference "R93") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/cee1a3a7-fa5e-4927-a5bc-0d4b06d536f2/53e2ae53-c8da-499e-9dd6-5b015187b046"
+      (reference "R94") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/cee1a3a7-fa5e-4927-a5bc-0d4b06d536f2/0f2f30f6-4003-4d97-a906-e85f6b1522f6"
+      (reference "R95") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/1e173e14-26ae-4dad-ae3e-f637f9d498d8"
       (reference "U31") (unit 1) (value "Enable") (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
     )
