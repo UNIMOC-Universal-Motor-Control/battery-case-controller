@@ -1,6 +1,6 @@
 {
     "configurations": [
-         {
+        {
             "name": "Arm GCC (Release)",
             "includePath": [
                 "${workspaceFolder}/modm/ext",
@@ -23,7 +23,7 @@
             "cppStandard": "c++23",
             "intelliSenseMode": "gcc-arm"
         },
-         {
+        {
             "name": "Arm GCC (Debug)",
             "includePath": [
                 "${workspaceFolder}/modm/ext",
@@ -45,7 +45,8 @@
             ],
             "cStandard": "gnu23",
             "cppStandard": "c++23",
-            "intelliSenseMode": "gcc-arm"
+            "intelliSenseMode": "gcc-arm",
+            "configurationProvider": "ms-vscode.cmake-tools"
         }
     ],
     "version": 4
