@@ -39,5 +39,5 @@
 *.log
 
 # modm directories
-software/build
-software/modm
+software/build/*
+software/modm/*
