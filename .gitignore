@@ -31,3 +31,13 @@
 *.out
 *.app
 *.zip
+
+# kicad files
+*.lck
+
+# modm files
+*.log
+
+# modm directories
+software/build
+software/modm
